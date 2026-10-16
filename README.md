@@ -124,19 +124,6 @@ const saya = {
 
 ---
 
-## ▪ Proyek Unggulan
-
-<div align="center">
-
-<a href="https://github.com/KinKareem/Human-Atlas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KinKareem&repo=Human-Atlas&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" alt="Human-Atlas" />
-</a>
-<a href="https://github.com/KinKareem/Kin-Porto">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KinKareem&repo=Kin-Porto&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" alt="Kin-Porto" />
-</a>
-
-</div>
-
 ---
 
 ## ▪ Quote Hari Ini
@@ -148,14 +135,6 @@ const saya = {
 </div>
 
 ---
-
-## ▪ Ayo Kolaborasi
-
-Punya ide, proyek, atau sekadar mau ngobrol soal teknologi? Jangan ragu untuk menghubungi saya lewat salah satu platform di atas. Pull request, issue, dan diskusi selalu terbuka.
-
-<div align="center">
-
-**Kalau suka dengan profil ini, jangan lupa kasih bintang di repo-nya.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a4a4a,100:000000&height=120&section=footer" width="100%" />
 
