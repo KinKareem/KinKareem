@@ -91,19 +91,6 @@ const saya = {
 
 <img height="165" src="https://streak-stats.demolab.com?user=KinKareem&background=000000&border=30363d&stroke=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=8b949e" alt="streak" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=KinKareem&theme=flat&no-frame=true&row=1&column=7" alt="trophies" />
-
-</div>
-
----
-
-## ▪ Grafik Aktivitas
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KinKareem&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&title_color=ffffff&hide_border=true" alt="activity graph" />
 
 </div>
 
