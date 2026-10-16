@@ -24,8 +24,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=000000&color_dots=#ebedf0,#c9ccd1,#9aa0a6,#5f6368,#000000
-            dist/github-contribution-grid-snake-dark.svg?color_snake=ffffff&color_dots=#161b22,#30363d,#6e7681,#9198a1,#ffffff
+            dist/github-contribution-grid-snake.svg?color_snake=#216e39&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#39d353&color_dots=#161b22,#01311f,#034525,#0f6d31,#00c647
 
       - name: Push ke branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
