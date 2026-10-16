@@ -47,6 +47,20 @@ const saya = {
 
 ---
 
+## ▪ Galeri
+
+<!-- Upload gambar/GIF kamu ke folder assets/ di repo, dengan nama file persis seperti di bawah -->
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/KinKareem/KinKareem/main/assets/embarrassed-shy.gif" width="220" height="220" alt="embarrassed-shy" />
+<img src="https://raw.githubusercontent.com/KinKareem/KinKareem/main/assets/anime-girl.gif" width="220" height="220" alt="anime-girl" />
+<img src="https://raw.githubusercontent.com/KinKareem/KinKareem/main/assets/anime-bocchi.webp" width="220" height="220" alt="anime-bocchi" />
+
+</div>
+
+---
+
 ## ▪ Terhubung Dengan Saya
 
 <div align="center">
