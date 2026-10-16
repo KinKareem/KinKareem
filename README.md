@@ -127,18 +127,11 @@ const saya = {
 
 <div align="center">
 
-<a href="https://github.com/KinKareem/PROYEK-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KinKareem&repo=PROYEK-1&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" alt="Proyek 1" />
+<a href="https://github.com/KinKareem/Human-Atlas">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KinKareem&repo=Human-Atlas&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" alt="Human-Atlas" />
 </a>
-<a href="https://github.com/KinKareem/PROYEK-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KinKareem&repo=PROYEK-2&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" alt="Proyek 2" />
-</a>
-
-<a href="https://github.com/KinKareem/PROYEK-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KinKareem&repo=PROYEK-3&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" alt="Proyek 3" />
-</a>
-<a href="https://github.com/KinKareem/PROYEK-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KinKareem&repo=PROYEK-4&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" alt="Proyek 4" />
+<a href="https://github.com/KinKareem/Kin-Porto">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KinKareem&repo=Kin-Porto&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" alt="Kin-Porto" />
 </a>
 
 </div>
