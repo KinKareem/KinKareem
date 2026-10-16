@@ -84,12 +84,12 @@ const saya = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=KinKareem&show_icons=true&hide_border=false&count_private=true&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KinKareem&layout=compact&bg_color=000000&title_color=ffffff&text_color=c9d1d9&border_color=30363d" alt="top langs" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=KinKareem&show_icons=true&hide_border=false&count_private=true&card_width=400&line_height=20&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" alt="stats" />
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KinKareem&layout=compact&card_width=400&bg_color=000000&title_color=ffffff&text_color=c9d1d9&border_color=30363d" alt="top langs" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=KinKareem&background=000000&border=30363d&stroke=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=8b949e" alt="streak" />
+<img height="165" src="https://streak-stats.demolab.com?user=KinKareem&background=000000&border=30363d&stroke=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=8b949e" alt="streak" />
 
 <br/>
 
