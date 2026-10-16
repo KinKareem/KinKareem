@@ -1,22 +1,168 @@
-## Hi there 👋
+<!-- ============================================================
+  TEMA: MINIMALIS HITAM PUTIH
+  GANTI semua placeholder berikut sebelum dipakai:
+  USERNAME  -> username GitHub kamu
+  NAMA KAMU -> nama kamu
+  ============================================================ -->
 
-<p align="left">
-<a href="https://github.com/penuliscode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KinKareem&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KinKareem&layout=compact&theme=algolia"/>
+<!-- ================= BANNER ================= -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4a4a4a&height=240&section=header&text=NAMA%20KAMU&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Developer%20%7C%20Creator%20%7C%20Lifelong%20Learner&descAlignY=60&descSize=17" width="100%" />
+
+<!-- Teks mengetik animasi -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Selamat+datang+di+profil+saya;Suka+ngoding+dan+bikin+hal+baru;Mari+berkolaborasi+bareng" alt="Typing SVG" />
 </a>
-</p>
-<!--
-**KinKareem/KinKareem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br/><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Counter pengunjung + badge -->
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=PROFILE%20VIEWS&color=000000&style=flat-square" alt="views" />
+<img src="https://img.shields.io/github/followers/USERNAME?label=FOLLOWERS&style=flat-square&logo=github&labelColor=000000&color=ffffff" alt="followers" />
+<img src="https://img.shields.io/github/stars/USERNAME?label=STARS&style=flat-square&logo=github&labelColor=000000&color=ffffff" alt="stars" />
+
+</div>
+
+---
+
+## ▪ Tentang Saya
+
+```js
+const saya = {
+  nama: "NAMA KAMU",
+  lokasi: "Indonesia",
+  pekerjaan: "Software Developer / Mahasiswa / Freelancer",
+  sedangBelajar: ["Next.js", "Cloud Computing", "UI/UX"],
+  sedangDikerjakan: "Proyek seru yang segera rilis",
+  tanyaSayaTentang: ["Web Development", "Git & GitHub", "Karier IT"],
+  funFact: "Kopi dulu, baru ngoding",
+};
+```
+
+- ▫ Sedang mengerjakan **proyek keren** yang segera rilis
+- ▫ Sedang belajar **teknologi baru** setiap hari
+- ▫ Tanya saya soal **web development & open source**
+- ▫ Fun fact: **bug paling sering ketemu pas jam 2 pagi**
+
+---
+
+## ▪ Terhubung Dengan Saya
+
+<div align="center">
+
+<a href="https://instagram.com/USERNAME_IG"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://linkedin.com/in/USERNAME_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://twitter.com/USERNAME_X"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://youtube.com/@USERNAME_YT"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://tiktok.com/@USERNAME_TT"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+<a href="https://discord.com/users/ID_DISCORD"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://t.me/USERNAME_TG"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
+
+---
+
+## ▪ Tech Stack
+
+<div align="center">
+
+**Bahasa & Framework**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,php,laravel,tailwind&perline=11&theme=dark" alt="languages" />
+
+**Database, Tools & Platform**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,git,github,docker,figma,vscode,linux,vercel&perline=11&theme=dark" alt="tools" />
+
+</div>
+
+---
+
+## ▪ Statistik GitHub
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=false&count_private=true&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&bg_color=000000&title_color=ffffff&text_color=c9d1d9&border_color=30363d" alt="top langs" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=USERNAME&background=000000&border=30363d&stroke=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=8b949e" alt="streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=flat&no-frame=true&row=1&column=7" alt="trophies" />
+
+</div>
+
+---
+
+## ▪ Grafik Aktivitas
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&title_color=ffffff&hide_border=true" alt="activity graph" />
+
+</div>
+
+---
+
+## ▪ Ular Pemakan Kontribusi
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## ▪ Proyek Unggulan
+
+<div align="center">
+
+<a href="https://github.com/USERNAME/PROYEK-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=PROYEK-1&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" alt="Proyek 1" />
+</a>
+<a href="https://github.com/USERNAME/PROYEK-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=PROYEK-2&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" alt="Proyek 2" />
+</a>
+
+<a href="https://github.com/USERNAME/PROYEK-3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=PROYEK-3&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" alt="Proyek 3" />
+</a>
+<a href="https://github.com/USERNAME/PROYEK-4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=PROYEK-4&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" alt="Proyek 4" />
+</a>
+
+</div>
+
+---
+
+## ▪ Quote Hari Ini
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote" />
+
+</div>
+
+---
+
+## ▪ Ayo Kolaborasi
+
+Punya ide, proyek, atau sekadar mau ngobrol soal teknologi? Jangan ragu untuk menghubungi saya lewat salah satu platform di atas. Pull request, issue, dan diskusi selalu terbuka.
+
+<div align="center">
+
+**Kalau suka dengan profil ini, jangan lupa kasih bintang di repo-nya.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a4a4a,100:000000&height=120&section=footer" width="100%" />
+
+</div>
