@@ -1,14 +1,14 @@
 <!-- ============================================================
   TEMA: MINIMALIS HITAM PUTIH
   GANTI semua placeholder berikut sebelum dipakai:
-  USERNAME  -> username GitHub kamu
-  NAMA KAMU -> nama kamu
+  USERNAME  -> sudah diganti menjadi KinKareem
+  NAMA KAMU -> sudah diganti menjadi Kin Kareem Raya
   ============================================================ -->
 
 <!-- ================= BANNER ================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4a4a4a&height=240&section=header&text=NAMA%20KAMU&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Developer%20%7C%20Creator%20%7C%20Lifelong%20Learner&descAlignY=60&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4a4a4a&height=240&section=header&text=Kin%20Kareem%20Raya&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Developer%20%7C%20Creator%20%7C%20Lifelong%20Learner&descAlignY=60&descSize=17" width="100%" />
 
 <!-- Teks mengetik animasi -->
 <a href="https://git.io/typing-svg">
@@ -18,9 +18,9 @@
 <br/><br/>
 
 <!-- Counter pengunjung + badge -->
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=PROFILE%20VIEWS&color=000000&style=flat-square" alt="views" />
-<img src="https://img.shields.io/github/followers/USERNAME?label=FOLLOWERS&style=flat-square&logo=github&labelColor=000000&color=ffffff" alt="followers" />
-<img src="https://img.shields.io/github/stars/USERNAME?label=STARS&style=flat-square&logo=github&labelColor=000000&color=ffffff" alt="stars" />
+<img src="https://komarev.com/ghpvc/?username=KinKareem&label=PROFILE%20VIEWS&color=000000&style=flat-square" alt="views" />
+<img src="https://img.shields.io/github/followers/KinKareem?label=FOLLOWERS&style=flat-square&logo=github&labelColor=000000&color=ffffff" alt="followers" />
+<img src="https://img.shields.io/github/stars/KinKareem?label=STARS&style=flat-square&logo=github&labelColor=000000&color=ffffff" alt="stars" />
 
 </div>
 
@@ -30,7 +30,7 @@
 
 ```js
 const saya = {
-  nama: "NAMA KAMU",
+  nama: "Kin Kareem Raya",
   lokasi: "Indonesia",
   pekerjaan: "Software Developer / Mahasiswa / Freelancer",
   sedangBelajar: ["Next.js", "Cloud Computing", "UI/UX"],
@@ -84,16 +84,16 @@ const saya = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=false&count_private=true&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&bg_color=000000&title_color=ffffff&text_color=c9d1d9&border_color=30363d" alt="top langs" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=KinKareem&show_icons=true&hide_border=false&count_private=true&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KinKareem&layout=compact&bg_color=000000&title_color=ffffff&text_color=c9d1d9&border_color=30363d" alt="top langs" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=USERNAME&background=000000&border=30363d&stroke=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=8b949e" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=KinKareem&background=000000&border=30363d&stroke=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=8b949e" alt="streak" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=flat&no-frame=true&row=1&column=7" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=KinKareem&theme=flat&no-frame=true&row=1&column=7" alt="trophies" />
 
 </div>
 
@@ -103,7 +103,7 @@ const saya = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&title_color=ffffff&hide_border=true" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KinKareem&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&title_color=ffffff&hide_border=true" alt="activity graph" />
 
 </div>
 
@@ -114,9 +114,9 @@ const saya = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KinKareem/KinKareem/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KinKareem/KinKareem/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/KinKareem/KinKareem/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -127,18 +127,18 @@ const saya = {
 
 <div align="center">
 
-<a href="https://github.com/USERNAME/PROYEK-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=PROYEK-1&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" alt="Proyek 1" />
+<a href="https://github.com/KinKareem/PROYEK-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KinKareem&repo=PROYEK-1&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" alt="Proyek 1" />
 </a>
-<a href="https://github.com/USERNAME/PROYEK-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=PROYEK-2&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" alt="Proyek 2" />
+<a href="https://github.com/KinKareem/PROYEK-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KinKareem&repo=PROYEK-2&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" alt="Proyek 2" />
 </a>
 
-<a href="https://github.com/USERNAME/PROYEK-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=PROYEK-3&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" alt="Proyek 3" />
+<a href="https://github.com/KinKareem/PROYEK-3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KinKareem&repo=PROYEK-3&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" alt="Proyek 3" />
 </a>
-<a href="https://github.com/USERNAME/PROYEK-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=PROYEK-4&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" alt="Proyek 4" />
+<a href="https://github.com/KinKareem/PROYEK-4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KinKareem&repo=PROYEK-4&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" alt="Proyek 4" />
 </a>
 
 </div>
