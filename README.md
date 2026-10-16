@@ -45,7 +45,7 @@ const saya = {
 - ▫ Tanya saya soal **web development & open source**
 - ▫ Fun fact: **bug paling sering ketemu pas jam 2 pagi**
 
----
+
 
 ## ▪ Galeri
 
@@ -59,7 +59,7 @@ const saya = {
 
 </div>
 
----
+
 
 ## ▪ Terhubung Dengan Saya
 
@@ -76,7 +76,7 @@ const saya = {
 
 </div>
 
----
+
 
 ## ▪ Tech Stack
 
@@ -92,7 +92,7 @@ const saya = {
 
 </div>
 
----
+
 
 ## ▪ Statistik GitHub
 
@@ -108,7 +108,7 @@ const saya = {
 
 </div>
 
----
+
 
 ## ▪ Ular Pemakan Kontribusi
 
@@ -122,9 +122,6 @@ const saya = {
 
 </div>
 
----
-
----
 
 ## ▪ Quote Hari Ini
 
